@@ -7,5 +7,17 @@
       "username": "admin",
       "password": "admin"
     }
+  ],
+  "user_tasks": [
+    {
+      "id": "dhwyKiduiu1831HuxqoepqIx",
+      "todos": [
+        {
+          "id": 1,
+          "title": "Learn React & Next.js",
+          "completed": false
+        }
+      ]
+    }
   ]
 }
